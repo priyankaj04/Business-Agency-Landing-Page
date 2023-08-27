@@ -1,29 +1,26 @@
-# News Report - Angular
+# Business Agency Landing Page
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
+* This webiste is build in single page.
+* Built only to practice and improve front-end skills
 
-## Development server
+> Angular v.16.1.16 + Tailwind CSS
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+* Tailwind CSS is used to make landing page responsive.
 
-## Code scaffolding
+## Here are some outputs of landing page
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<img width="1279" alt="Screenshot 2023-08-28 at 12 08 23 AM" src="https://github.com/priyankaj04/Business-Agency-Landing-Page/assets/103273242/ce9f1f3a-1558-4755-baf1-6404e63a2d0d">
 
-## Build
+<img width="1257" alt="Screenshot 2023-08-28 at 12 09 40 AM" src="https://github.com/priyankaj04/Business-Agency-Landing-Page/assets/103273242/2d1bdcf3-3e39-45c3-834e-59d88848003f">
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<img width="1054" alt="Screenshot 2023-08-28 at 12 10 37 AM" src="https://github.com/priyankaj04/Business-Agency-Landing-Page/assets/103273242/0bcc4907-9850-4057-bfa5-b0666d931780">
 
-## Running unit tests
+<img width="1259" alt="Screenshot 2023-08-28 at 12 11 04 AM" src="https://github.com/priyankaj04/Business-Agency-Landing-Page/assets/103273242/343f3502-f0ca-4781-a141-9e47a8a5ed7d">
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<img width="1259" alt="Screenshot 2023-08-28 at 12 11 20 AM" src="https://github.com/priyankaj04/Business-Agency-Landing-Page/assets/103273242/cd48f260-9033-40d9-ab05-7179b58eb5a4">
 
-## Running end-to-end tests
+<img width="1259" alt="Screenshot 2023-08-28 at 12 11 30 AM" src="https://github.com/priyankaj04/Business-Agency-Landing-Page/assets/103273242/9b14d6a2-0b23-4e5d-b3fe-d310a0c8adff">
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<img width="345" alt="Screenshot 2023-08-28 at 12 09 05 AM" src="https://github.com/priyankaj04/Business-Agency-Landing-Page/assets/103273242/8e5f1f53-fd11-4c33-b4e8-1ed9bcb4ff5a">
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# Business-Agency-Landing-Page
-# Business-Agency-Landing-Page
+### Thankyou!
