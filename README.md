@@ -1,6 +1,6 @@
 # Business Agency Landing Page
 
-Hosted on netlify - [link](https://stepupyourbusiness.netlify.app/)
+Hosted on netlify - [Link](https://stepupyourbusiness.netlify.app/)
 
 * This webiste is build in single page.
 * Built only to practice and improve front-end skills
